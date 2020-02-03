@@ -1,2 +1,2 @@
 ## Contribution Guidelines
-contributions are coming :neckbeard:
+contributions are coming ::neckbeard::
